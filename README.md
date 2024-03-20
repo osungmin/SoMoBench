@@ -8,7 +8,8 @@ Benchmark datasets for machine learning in soil moisture modeling
   - scripts/somobench.py: python script to use SomoBench data
    - one year has three .netcdf files; 1) meteorological forcing data, 2) static features, and 3) upscaled soil moisture
   - scripts/predata.py: python script to prepare SomoBench data at a grid pixel using ISMN raw data
-    - download ISMN data from . with the station information (see the example files in .)
-    
+    - download soil moisture data from [https://www.ismn.](https://ismn.earth) (log-in required) > DATA ACCESS
+    - data can be extracted using ISMN github ()
+    - see the example files in .
   
 # Reference
