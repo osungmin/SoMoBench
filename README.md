@@ -12,7 +12,10 @@ Benchmark datasets for machine learning in soil moisture modeling
     - download soil moisture data from [https://www.ismn.](https://ismn.earth) (log-in required) > DATA ACCESS
     - data can be extracted using ISMN github ()
     - see the example files in .
-  - scripts/pre_era.py: python script to extract meteorological forcing data at given grid pixels
-  - scripts/pre_statics.py: python script to extract static features at given grid pixels
+      
+  - scripts
+    - down_era5.py: to download daily ERA5 data using the CDS API service.
+    - extract_era5.py: to extract meteorological forcing data from ERA5 at given grid pixels
+    - extract_statics.py: to extract static features at given grid pixels
   
 # Reference
