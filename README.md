@@ -1,5 +1,5 @@
-# SomoBench
-Benchmark datasets for machine learning in soil moisture modeling
+# SoMoBench
+Observation-based benchmark dataset for soil moisture modeling with machine learning
 
 # What is SomoBench
 
