@@ -1,7 +1,9 @@
 # SoMoBench
 Observation-based benchmark dataset for soil moisture modeling with machine learning
 
-# What is SomoBench
+# What is SoMoBench
+Benchmark datasets in the area of machine learning (ML) aim to provide curated data that represent real-world problems, allowing the performance of different ML algorithms to be quantitatively evaluated and compared. Here we introduce a benchmark dataset ‘SoMoBench’ for soil moisture modeling using machine learning. In recent years, ML methods have been actively applied to simulate soil moisture dynamics, however, they are difficult to compare due to inconsistencies among the studies, including different data sources, preprocessing, and spatiotemporal scales. To overcome this issue, we aggregate and standardise existing global in-situ soil moisture data at the daily scale and 0.25° spatial resolution, and provide the data with meteorological forcing and statistic features at corresponding grid pixels. 
+
 
 # About this repository
 
