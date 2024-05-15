@@ -20,4 +20,8 @@ Benchmark datasets in the area of machine learning (ML) aim to provide curated d
     - extract_era5.py: to extract meteorological forcing data from ERA5 at given grid pixels
     - extract_statics.py: to extract static features at given grid pixels
   
-# Reference
+# Citations
+If you use SoMoBench in your research, we would appreciate a citation to the appropriate paper(s):
+
+For general use of SoMoBench you can read/cite our .. paper (bibtex).
+For application of SoMoBench you can read/cite our Science Data papers (bibtex; free access).
