@@ -1,3 +1,7 @@
+
+<img width="500" alt="SoMoBenchLogo" src="https://github.com/osungmin/SoMoBench/assets/53712038/28826733-8f70-4078-bb51-b7787e93d729">
+
+
 # SoMoBench
 Observation-based benchmark dataset for soil moisture modeling with machine learning
 
